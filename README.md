@@ -1,2 +1,2 @@
 # EXAMEN SEGUNDO PARCIAL
-#Herlan Santiago Mistas Huanca
+# Herlan Santiago Mistas Huanca
